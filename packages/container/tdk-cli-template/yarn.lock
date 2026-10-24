@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@tdk-landscape/tdk-cli-core@1.3.185":
-  version "1.3.185"
-  resolved "https://registry.yarnpkg.com/@tdk-landscape/tdk-cli-core/-/tdk-cli-core-1.3.185.tgz#44524517ffae6085c3fe0e32787f73164dd1f8ee"
-  integrity sha512-sqVT5JBcB6QYh3WkjUPmHXWjHLncyOMRTLP/OXq7FRpsZgLgpPz4dUPVvA0G87nAktCw6oLMTUoWM2FICoK7HQ==
+"@flisk-sh/flisk@1.4.0":
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/@flisk-sh/flisk/-/flisk-1.4.0.tgz#e16a0ff34e529fc1f48b1a0d3c7cbac55f9bc164"
+  integrity sha512-DX/d3TzJsUuX3OJ0pCqLt2qtua4/3WjlJA6LrOjTPXxd2rRASs3vwg7RYp0kPLGys9jtBhoM2/2fbWnfw9LkTw==
   dependencies:
     commander "^15.0.0"
     handlebars "^4.7.8"
